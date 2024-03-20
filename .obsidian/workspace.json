@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "62624d931096859a",
+    "type": "split",
+    "children": [
+      {
+        "id": "04e710dedf45b7c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cc999e581d9a160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISCO CyberSec Path/CISCO Cybersecurity Path.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35f4c8c2b2e460f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0bde3dcb6792b04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "887c1348ccb0d574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82763d418b5d741c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65ef1020c1b5c6b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43617b8f1572c988",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7f3adb46bdf93ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85ab3058d5e06a39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CISCO CyberSec Path/CISCO Cybersecurity Path.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ec087edbe8e3763",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CISCO CyberSec Path/CISCO Cybersecurity Path.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38f072fe0f5c0965",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30c12e77fe999330",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CISCO CyberSec Path/CISCO Cybersecurity Path.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "4cc999e581d9a160",
+  "lastOpenFiles": [
+    "CISCO CyberSec Path/Pasted image 20240318183453.png"
+  ]
+}
