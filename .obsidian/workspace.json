@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO CyberSec Path/CISCO Cybersecurity Path.md",
+                "file": "1. Network Reference Models/1. Network Reference Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISCO CyberSec Path/CISCO Cybersecurity Path.md",
+                "file": "1. Network Reference Models/1. Network Reference Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISCO CyberSec Path/CISCO Cybersecurity Path.md",
+                "file": "1. Network Reference Models/1. Network Reference Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISCO CyberSec Path/CISCO Cybersecurity Path.md"
+                "file": "1. Network Reference Models/1. Network Reference Models.md"
               }
             }
           }
@@ -148,6 +148,15 @@
   },
   "active": "4cc999e581d9a160",
   "lastOpenFiles": [
+    "CISCO CyberSec Path/3. Python Essential 1/Python Essentials 1.md",
+    "CISCO CyberSec Path/2. CISCO Packet Tracer/Cisco Packet Tracer.md",
+    "4. Network Device Basics/2. Network Device Basics guided Exercise.md",
+    "4. Network Device Basics/1. Network Device Basics.md",
+    "3. IP Addressing Basics/2. IP Addressing Basics Guided Exercise.md",
+    "3. IP Addressing Basics/1. IP Addressing Basics.md",
+    "1. Network Reference Models/2. Network Reference Models Guided Exercise.md",
+    "1. Network Reference Models/1. Network Reference Models.md",
+    "CISCO CyberSec Path/CISCO Cybersecurity Path.md",
     "CISCO CyberSec Path/Pasted image 20240318183453.png"
   ]
 }
